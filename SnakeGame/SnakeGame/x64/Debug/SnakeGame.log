@@ -1,0 +1,13 @@
+﻿  ConsoleCursor.cpp
+e:\bhavin\personal projects\github\snake-game-in-cpp\snakegame\snakegame\consolecursor.cpp(89): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+e:\bhavin\personal projects\github\snake-game-in-cpp\snakegame\snakegame\consolecursor.cpp(94): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+e:\bhavin\personal projects\github\snake-game-in-cpp\snakegame\snakegame\consolecursor.cpp(245): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+e:\bhavin\personal projects\github\snake-game-in-cpp\snakegame\snakegame\consolecursor.cpp(245): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  UserInterface.cpp
+e:\bhavin\personal projects\github\snake-game-in-cpp\snakegame\snakegame\consolecursor.cpp(89): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+e:\bhavin\personal projects\github\snake-game-in-cpp\snakegame\snakegame\consolecursor.cpp(94): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+e:\bhavin\personal projects\github\snake-game-in-cpp\snakegame\snakegame\consolecursor.cpp(245): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+e:\bhavin\personal projects\github\snake-game-in-cpp\snakegame\snakegame\consolecursor.cpp(245): warning C4302: 'type cast': truncation from 'void *' to 'int'
+e:\bhavin\personal projects\github\snake-game-in-cpp\snakegame\snakegame\userinterface.cpp(173): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  Generating Code...
+  SnakeGame.vcxproj -> E:\Bhavin\Personal Projects\GitHub\Snake-Game-in-CPP\SnakeGame\x64\Debug\SnakeGame.exe
